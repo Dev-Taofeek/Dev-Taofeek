@@ -5,10 +5,10 @@
 ---
 
 ## 🚀 About Me
-I’m not just writing code — I’m building *digital experiences*.  
+I’m not just writing code, I’m building *digital experiences*.  
 I specialize in crafting responsive, animated, and functional web interfaces using **React**, **Nextjs**, **JavaScript**, **Typescript** and **Tailwind CSS**.  
 
-I love projects that challenge logic and design at once — where creativity meets performance.  
+I love projects that challenge logic and design at once. Where creativity meets performance.  
 Right now, I’m exploring **GraphQL**, **GSAP**, and **Framer Motion** to make my UIs smoother, faster, and smarter.  
 
 💡 *Turning ideas into beautiful interfaces is what I do best.*
@@ -37,12 +37,12 @@ Right now, I’m exploring **GraphQL**, **GSAP**, and **Framer Motion** to make 
 ## ⚙️ GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tobless-Scripts&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tobless-Scripts&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dev-Taofeek&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Taofeek&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobless-Scripts&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Taofeek&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 
@@ -50,8 +50,8 @@ Right now, I’m exploring **GraphQL**, **GSAP**, and **Framer Motion** to make 
 
 ## ⚙️ GitHub Stats
 
-![Tobless GitHub stats](https://github-readme-stats.vercel.app/api?username=Tobless-Scripts&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tobless-Scripts&layout=compact&theme=tokyonight)
+![Tobless GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Taofeek&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Taofeek&layout=compact&theme=tokyonight)
 
 ---
 

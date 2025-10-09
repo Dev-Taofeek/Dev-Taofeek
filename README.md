@@ -26,9 +26,9 @@ Right now, I’m exploring **GraphQL**, **GSAP**, and **Framer Motion** to make 
 
 ### 📊 GitHub Stats
 
-<p display="flex">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Dev-Taofeek&show_icons=true&hide_border=false&theme=default"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Taofeek&layout=compact&hide_border=false&theme=default"/>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dev-Taofeek&show_icons=true&hide_border=false&theme=default"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Taofeek&layout=compact&hide_border=false&theme=default"/>
 </p>
 
 

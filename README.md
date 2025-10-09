@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Obayomi Taofeek — a.k.a **Tobless**
+# 👋 Hey, I’m Obayomi Taofeek 
 
 ### Frontend Developer ⚡ | UI Enthusiast 🎨 | Building Web Experiences that *Feel Alive*
 
@@ -15,11 +15,28 @@ Right now, I’m exploring **GraphQL**, **GSAP**, and **Framer Motion** to make 
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=Dev-Taofeek&label=Profile%20Views&color=white)
+
+---
+
+## ⚙️ GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dev-Taofeek&show_icons=true&hide_border=false" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Taofeek&hide_border=false" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Taofeek&layout=compact&hide_border=false" />
+</p>
+
+---
+
 ## 🧠 Tech Arsenal
 
 | Frontend | Animation | Tools | Learning |
 |-----------|------------|--------|-----------|
-| React • JavaScript (ES6+) • HTML • CSS • Tailwind CSS | GSAP • Framer Motion | Git • GitHub • VS Code • Api Integration | GraphQL • Firebase • AI Integration |
+| React • Nextjs • JavaScript (ES6+) • Typescript • HTML • CSS • Tailwind CSS | GSAP • Framer Motion | Git • GitHub • VS Code • Api Integration | GraphQL • Firebase • AI Integration |
 
 ---
 
@@ -27,39 +44,19 @@ Right now, I’m exploring **GraphQL**, **GSAP**, and **Framer Motion** to make 
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| 🧠 [Skill Flow](https://github.com/Tobless-Scripts/Skill-Flow) | A platform where anyone can learn anything | React, Tailwind CSS |
-| 🏫 [Tobless Hive](https://github.com/Tobless-Scripts/Tobless-Hive) | A clean, Udemy-style clone for online learning | React, Firebase |
-| 🎨 [Portfolio Builder](https://github.com/Tobless-Scripts/Portfolio-Builder) | Helps designers get design briefs to grow their portfolio | React, Node.js |
+| 🧭 **Smart Track** *(Coming Soon)* | Smart Track is an AI-powered performance analytics and productivity tracking platform designed to help individuals and professionals visualize, measure, and improve their daily performance. | Next.js, TypeScript, TailwindCSS, and Framer Motion |
+| 🧠 [SnapCard](https://github.com/Dev-Taofeek/Snap-Card)) | A platform where anyone can learn anything | React, Tailwind CSS |
+| 🏫 [Cine Watch](https://github.com/Tobless-Scripts/Tobless-Hive) | A clean, Udemy-style clone for online learning | React, Firebase |
+| 🎨 [Chowdeck-clone](https://github.com/Tobless-Scripts/Portfolio-Builder) | Helps designers get design briefs to grow their portfolio | React, Node.js |
 
 ---
 
-
-## ⚙️ GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dev-Taofeek&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Taofeek&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Taofeek&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-
----
-
-## ⚙️ GitHub Stats
-
-![Tobless GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Taofeek&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Taofeek&layout=compact&theme=tokyonight)
-
----
 
 ## 🗣️ Let’s Connect
 Let’s collaborate or build something great together:
 
-- 📧 [obayomitaofeek7@gmail.com](mailto:obayomitaofeek7@gmail.com)  
-- 🐦 [@ObayomiTaofeek](https://x.com/ObayomiTaofeek)  
+- 📧 Email: [obayomitaofeek7@gmail.com](mailto:obayomitaofeek7@gmail.com)  
+- 🐦 Twitter: [@ObayomiTaofeek](https://x.com/ObayomiTaofeek)  
 - 💼 LinkedIn: [Obayomi Taofeek](https://www.linkedin.com/in/obayomi-taofeek-805a56267/)  
 
 ---

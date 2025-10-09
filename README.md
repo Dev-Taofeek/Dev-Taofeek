@@ -15,12 +15,15 @@ Right now, I’m exploring **GraphQL**, **GSAP**, and **Framer Motion** to make 
 
 ---
 
-### 👀 Profile Views  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dev-Taofeek&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Dev-Taofeek&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dev-Taofeek&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</p>
+
 
 ## ⚙️ GitHub Analytics
 

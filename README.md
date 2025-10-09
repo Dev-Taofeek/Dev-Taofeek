@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 I’m not just writing code — I’m building *digital experiences*.  
-I specialize in crafting responsive, animated, and functional web interfaces using **React**, **JavaScript**, and **Tailwind CSS**.  
+I specialize in crafting responsive, animated, and functional web interfaces using **React**, **Nextjs**, **JavaScript**, **Typescript** and **Tailwind CSS**.  
 
 I love projects that challenge logic and design at once — where creativity meets performance.  
 Right now, I’m exploring **GraphQL**, **GSAP**, and **Framer Motion** to make my UIs smoother, faster, and smarter.  
@@ -19,7 +19,7 @@ Right now, I’m exploring **GraphQL**, **GSAP**, and **Framer Motion** to make 
 
 | Frontend | Animation | Tools | Learning |
 |-----------|------------|--------|-----------|
-| React • JavaScript (ES6+) • HTML • CSS • Tailwind CSS | GSAP • Framer Motion | Git • GitHub • VS Code • Figma | GraphQL • Firebase • AI Integration |
+| React • JavaScript (ES6+) • HTML • CSS • Tailwind CSS | GSAP • Framer Motion | Git • GitHub • VS Code • Api Integration | GraphQL • Firebase • AI Integration |
 
 ---
 
@@ -30,6 +30,21 @@ Right now, I’m exploring **GraphQL**, **GSAP**, and **Framer Motion** to make 
 | 🧠 [Skill Flow](https://github.com/Tobless-Scripts/Skill-Flow) | A platform where anyone can learn anything | React, Tailwind CSS |
 | 🏫 [Tobless Hive](https://github.com/Tobless-Scripts/Tobless-Hive) | A clean, Udemy-style clone for online learning | React, Firebase |
 | 🎨 [Portfolio Builder](https://github.com/Tobless-Scripts/Portfolio-Builder) | Helps designers get design briefs to grow their portfolio | React, Node.js |
+
+---
+
+
+## ⚙️ GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tobless-Scripts&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tobless-Scripts&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobless-Scripts&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ---
 
@@ -45,9 +60,9 @@ Let’s collaborate or build something great together:
 
 - 📧 [obayomitaofeek7@gmail.com](mailto:obayomitaofeek7@gmail.com)  
 - 🐦 [@ObayomiTaofeek](https://x.com/ObayomiTaofeek)  
-- 💼 LinkedIn: *(Add when ready)*  
+- 💼 LinkedIn: [Obayomi Taofeek](https://www.linkedin.com/in/obayomi-taofeek-805a56267/)  
 
 ---
 
 > “I don’t chase opportunities — I create results that attract them.”  
-> — **Tobless**
+> — **Dev Taofeek**

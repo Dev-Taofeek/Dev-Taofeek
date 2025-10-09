@@ -32,7 +32,7 @@ I specialize in crafting responsive, animated, and functional web interfaces usi
 
 | Frontend | Animation | Tools | Learning |
 |-----------|------------|--------|-----------|
-| React • Nextjs • JavaScript (ES6+) • Typescript • HTML • CSS • Tailwind CSS | GSAP • Framer Motion | Git • GitHub • VS Code • Api Integration | GraphQL • Firebase • AI Integration |
+| React • Nextjs • JavaScript (ES6+) • Typescript • HTML • CSS • Tailwind CSS | Framer Motion | Git • GitHub • VS Code • Api Integration | GSAP • GraphQL • Firebase  • AI Integration |
 
 ---
 

@@ -28,13 +28,11 @@ Right now, I’m exploring **GraphQL**, **GSAP**, and **Framer Motion** to make 
 ## ⚙️ GitHub Analytics
 
 <p align="center">
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Taofeek&layout=compact&hide_border=false" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dev-Taofeek&show_icons=true&hide_border=false" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Taofeek&hide_border=false" />
 </p>
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Taofeek&layout=compact&hide_border=false" />
-</p>
 
 ---
 
@@ -68,6 +66,12 @@ Let’s collaborate or build something great together:
 - 📧 Email: [obayomitaofeek7@gmail.com](mailto:obayomitaofeek7@gmail.com)  
 - 🐦 Twitter: [@ObayomiTaofeek](https://x.com/ObayomiTaofeek)  
 - 💼 LinkedIn: [Obayomi Taofeek](https://www.linkedin.com/in/obayomi-taofeek-805a56267/)  
+
+---
+
+<p align="left">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Taofeek&hide_border=false" />
+</p>
 
 ---
 

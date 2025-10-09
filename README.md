@@ -15,7 +15,10 @@ Right now, I’m exploring **GraphQL**, **GSAP**, and **Framer Motion** to make 
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dev-Taofeek&label=Profile%20Views&color=white)
+### 👀 Profile Views  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dev-Taofeek&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
@@ -26,7 +29,7 @@ Right now, I’m exploring **GraphQL**, **GSAP**, and **Framer Motion** to make 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Taofeek&hide_border=false" />
 </p>
 
-<p align="center">
+<p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Taofeek&layout=compact&hide_border=false" />
 </p>
 
@@ -44,13 +47,17 @@ Right now, I’m exploring **GraphQL**, **GSAP**, and **Framer Motion** to make 
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| 🧭 **Smart Track** *(Coming Soon)* | Smart Track is an AI-powered performance analytics and productivity tracking platform designed to help individuals and professionals visualize, measure, and improve their daily performance. | Next.js, TypeScript, TailwindCSS, and Framer Motion |
-| 🧠 [SnapCard](https://github.com/Dev-Taofeek/Snap-Card)) | A platform where anyone can learn anything | React, Tailwind CSS |
-| 🏫 [Cine Watch](https://github.com/Tobless-Scripts/Tobless-Hive) | A clean, Udemy-style clone for online learning | React, Firebase |
-| 🎨 [Chowdeck-clone](https://github.com/Tobless-Scripts/Portfolio-Builder) | Helps designers get design briefs to grow their portfolio | React, Node.js |
+| 🧠 [SnapCard](https://github.com/Dev-Taofeek/Snap-Card)) | SnapCard lets users instantly create, share, and scan professional digital contact cards (vCards) using QR codes. | Nextjs, Typescript, Tailwind CSS, Firebase, QR Code Lib, HTML5-QRCode |
+| 🏫 [Cine Watch](https://github.com/Dev-Taofeek/cinewatch) | Your one-stop destination for movies, trailers, and cinema tickets. | Nextjs, Typescript, Tailwind CSS, Tmdb Api  |
+| 🎨 [Chowdeck-clone](https://github.com/Dev-Taofeek/my-chowdeck-clone) | A clone of chowdeck official website | Nextjs, Javascript, Tailwind CSS, Framer Motion |
+| [Tobless-Store](https://github.com/Dev-Taofeek/Tobless-Store) | Tobless Store is your one-stop shop for quality products, best deals, and fast delivery. Shop smarter, live better. | Reactjs, Redux, Javascript, Tailwindcss|
 
 ---
 
+### 🚀 Projects I'm Currently Building  
+- 🧭 **Smart Track** — Smart Track is an AI-powered performance analytics and productivity tracking platform designed to help individuals and professionals visualize, measure, and improve their daily performance *(coming soon)*  
+
+---
 
 ## 🗣️ Let’s Connect
 Let’s collaborate or build something great together:

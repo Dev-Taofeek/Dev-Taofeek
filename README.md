@@ -1,10 +1,9 @@
 # 👋 Hey, I’m Obayomi Taofeek 
 
-### Frontend Developer ⚡ | UI Enthusiast 🎨 | Building Web Experiences that *Feel Alive*
+### Frontend Developer ⚡ | UI Enthusiast 🎨 | Building Responsive Scalable wensites
 
 ---
 
-## 🚀 About Me
 I’m not just writing code, I’m building *digital experiences*.  
 I specialize in crafting responsive, animated, and functional web interfaces using **React**, **Nextjs**, **JavaScript**, **Typescript** and **Tailwind CSS**.  
 

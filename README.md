@@ -8,9 +8,6 @@
 I’m not just writing code, I’m building *digital experiences*.  
 I specialize in crafting responsive, animated, and functional web interfaces using **React**, **Nextjs**, **JavaScript**, **Typescript** and **Tailwind CSS**.  
 
-I love projects that challenge logic and design at once. Where creativity meets performance.  
-Right now, I’m exploring **GraphQL**, **GSAP**, and **Framer Motion** to make my UIs smoother, faster, and smarter.  
-
 💡 *Turning ideas into beautiful interfaces is what I do best.*
 
 ---

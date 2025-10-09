@@ -24,14 +24,10 @@ Right now, I’m exploring **GraphQL**, **GSAP**, and **Framer Motion** to make 
   <img src="https://github-profile-trophy.vercel.app/?username=Dev-Taofeek&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
-
-## ⚙️ GitHub Analytics
-
 ### 📊 GitHub Stats
 
 <p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Dev-Taofeek&show_icons=true&hide_border=false&theme=default" />
-  
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Taofeek&layout=compact&hide_border=false&theme=default" />
 </p>
 

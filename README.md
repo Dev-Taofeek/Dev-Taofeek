@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Obayomi Taofeek 
 
-### Frontend Developer ⚡ | UI Enthusiast 🎨 | Building Responsive Scalable wensites
+### Frontend Developer ⚡ | UI Enthusiast 🎨 | Building Responsive Scalable websites
 
 ---
 
@@ -30,7 +30,7 @@ I specialize in crafting responsive, animated, and functional web interfaces usi
 
 ---
 
-## 🧠 Tech Arsenal
+## 🧠 Tech Stack
 
 | Frontend | Animation | Tools | Learning |
 |-----------|------------|--------|-----------|
@@ -49,7 +49,7 @@ I specialize in crafting responsive, animated, and functional web interfaces usi
 
 ---
 
-### 🚀 Projects I'm Currently Building  
+### 🚀 Project I'm Currently Building  
 - 🧭 **Smart Track** — Smart Track is an AI-powered performance analytics and productivity tracking platform designed to help individuals and professionals visualize, measure, and improve their daily performance *(coming soon)*  
 
 ---

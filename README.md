@@ -4,7 +4,7 @@
 
 ---
 
-I’m not just writing code, I’m building *digital experiences*.  
+I’m not just writing code, I design and develop *digital solutions*.  
 I specialize in crafting responsive, animated, and functional web interfaces using **React**, **Nextjs**, **JavaScript**, **Typescript** and **Tailwind CSS**.  
 
 💡 *Turning ideas into beautiful interfaces is what I do best.*

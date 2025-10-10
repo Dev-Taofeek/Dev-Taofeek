@@ -35,15 +35,53 @@ I specialize in crafting responsive, scalable, animated, and functional web inte
 | React • Nextjs • JavaScript (ES6+) • Typescript • HTML • CSS • Tailwind CSS | Framer Motion | Git • GitHub • VS Code • Api Integration | GSAP • GraphQL • Firebase  • AI Integration |
 
 ---
+## 🏗️ Featured Projects  
 
-## 🏗️ Featured Projects
+### 🧠 [SnapCard](https://github.com/Dev-Taofeek/Snap-Card)  
+SnapCard lets users instantly create, share, and scan professional digital contact cards (vCards) using QR codes — helping professionals connect effortlessly in modern ways.  
 
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 🧠 [SnapCard](https://github.com/Dev-Taofeek/Snap-Card)) | SnapCard lets users instantly create, share, and scan professional digital contact cards (vCards) using QR codes. | Nextjs, Typescript, Tailwind CSS, Firebase, QR Code Lib, HTML5-QRCode |
-| 🏫 [Cine Watch](https://github.com/Dev-Taofeek/cinewatch) | Your one-stop destination for movies, trailers, and cinema tickets. | Nextjs, Typescript, Tailwind CSS, Tmdb Api  |
-| 🎨 [Chowdeck-clone](https://github.com/Dev-Taofeek/my-chowdeck-clone) | A clone of chowdeck official website | Nextjs, Javascript, Tailwind CSS, Framer Motion |
-| [Tobless-Store](https://github.com/Dev-Taofeek/Tobless-Store) | Tobless Store is your one-stop shop for quality products, best deals, and fast delivery. Shop smarter, live better. | Reactjs, Redux, Javascript, Tailwindcss|
+**Highlights:**  
+- Generate personalized QR codes for quick contact sharing  
+- Real-time updates powered by Firebase  
+- Clean, responsive interface with smooth user experience  
+
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Firebase, QR Code Library, HTML5-QRCode  
+
+---
+
+### 🎬 [Cine Watch](https://github.com/Dev-Taofeek/cinewatch)  
+Cine Watch is your one-stop destination for exploring movies, watching trailers, and checking cinema schedules — bringing the world of entertainment to your screen.  
+
+**Highlights:**  
+- Integrated TMDB API for real-time movie and trailer data  
+- Dynamic, user-friendly design for seamless browsing  
+- Optimized for both desktop and mobile viewing  
+
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS, TMDB API  
+
+---
+
+### 🎨 [Chowdeck Clone](https://github.com/Dev-Taofeek/my-chowdeck-clone)  
+A visually accurate clone of the official Chowdeck website, built to practice responsive design, animation, and clean UI development.  
+
+**Highlights:**  
+- Smooth animations and transitions using Framer Motion  
+- Fully responsive and mobile-friendly layout  
+- Designed with attention to performance and UI precision  
+
+**Tech Stack:** Next.js, JavaScript, Tailwind CSS, Framer Motion  
+
+---
+
+### 🛍️ [Tobless Store](https://github.com/Dev-Taofeek/Tobless-Store)  
+Tobless Store is a modern ecommerce platform where users can explore quality products, discover deals, and enjoy a fast, simple, and engaging shopping experience.  
+
+**Highlights:**  
+- State management with Redux for smooth cart and product operations  
+- Intuitive UI with focus on accessibility and performance  
+- Fully responsive design optimized for all devices  
+
+**Tech Stack:** React.js, Redux, JavaScript, Tailwind CSS  
 
 ---
 

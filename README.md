@@ -1,4 +1,4 @@
-# Hey, I’m Obayomi Taofeek 
+# Hey, I’m *Obayomi Taofeek* 
 
 ### Frontend Developer | UI Enthusiast | Building Responsive Scalable websites
 
@@ -106,4 +106,4 @@ Let’s collaborate or build something great together:
 ---
 
 > “I don’t chase opportunities — I create results that attract them.”  
-> —— **Dev Taofeek**
+> — **Dev Taofeek**

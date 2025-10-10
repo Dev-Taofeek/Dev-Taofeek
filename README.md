@@ -1,6 +1,6 @@
-# 👋 Hey, I’m Obayomi Taofeek 
+# Hey, I’m Obayomi Taofeek 
 
-### Frontend Developer ⚡ | UI Enthusiast 🎨 | Building Responsive Scalable websites
+### Frontend Developer | UI Enthusiast | Building Responsive Scalable websites
 
 ---
 
@@ -28,16 +28,16 @@ I specialize in crafting responsive, scalable, animated, and functional web inte
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 | Frontend | Animation | Tools | Learning |
 |-----------|------------|--------|-----------|
 | React • Nextjs • JavaScript (ES6+) • Typescript • HTML • CSS • Tailwind CSS | Framer Motion | Git • GitHub • VS Code • Api Integration | GSAP • GraphQL • Firebase  • AI Integration |
 
 ---
-## 🏗️ Featured Projects  
+## Featured Projects  
 
-### 🧠 [SnapCard](https://github.com/Dev-Taofeek/Snap-Card)  
+### [SnapCard](https://github.com/Dev-Taofeek/Snap-Card)  
 SnapCard lets users instantly create, share, and scan professional digital contact cards (vCards) using QR codes — helping professionals connect effortlessly in modern ways.  
 
 **Highlights:**  
@@ -49,7 +49,7 @@ SnapCard lets users instantly create, share, and scan professional digital conta
 
 ---
 
-### 🎬 [Cine Watch](https://github.com/Dev-Taofeek/cinewatch)  
+### [Cine Watch](https://github.com/Dev-Taofeek/cinewatch)  
 Cine Watch is your one-stop destination for exploring movies, watching trailers, and checking cinema schedules — bringing the world of entertainment to your screen.  
 
 **Highlights:**  
@@ -61,7 +61,7 @@ Cine Watch is your one-stop destination for exploring movies, watching trailers,
 
 ---
 
-### 🎨 [Chowdeck Clone](https://github.com/Dev-Taofeek/my-chowdeck-clone)  
+### [Chowdeck Clone](https://github.com/Dev-Taofeek/my-chowdeck-clone)  
 A visually accurate clone of the official Chowdeck website, built to practice responsive design, animation, and clean UI development.  
 
 **Highlights:**  
@@ -73,7 +73,7 @@ A visually accurate clone of the official Chowdeck website, built to practice re
 
 ---
 
-### 🛍️ [Tobless Store](https://github.com/Dev-Taofeek/Tobless-Store)  
+### [Tobless Store](https://github.com/Dev-Taofeek/Tobless-Store)  
 Tobless Store is a modern ecommerce platform where users can explore quality products, discover deals, and enjoy a fast, simple, and engaging shopping experience.  
 
 **Highlights:**  
@@ -85,17 +85,17 @@ Tobless Store is a modern ecommerce platform where users can explore quality pro
 
 ---
 
-### 🚀 Project I'm Currently Building  
-- 🧭 **Smart Track** — Smart Track is an AI-powered performance analytics and productivity tracking platform designed to help individuals and professionals visualize, measure, and improve their daily performance *(coming soon)*  
+### Project I'm Currently Building  
+ **Smart Track** — Smart Track is an AI-powered performance analytics and productivity tracking platform designed to help individuals and professionals visualize, measure, and improve their daily performance *(coming soon)*  
 
 ---
 
-## 🗣️ Let’s Connect
+## Let’s Connect
 Let’s collaborate or build something great together:
 
-- 📧 Email: [obayomitaofeek7@gmail.com](mailto:obayomitaofeek7@gmail.com)  
-- 🐦 Twitter: [@ObayomiTaofeek](https://x.com/ObayomiTaofeek)  
-- 💼 LinkedIn: [Obayomi Taofeek](https://www.linkedin.com/in/obayomi-taofeek-805a56267/)  
+- Email: [obayomitaofeek7@gmail.com](mailto:obayomitaofeek7@gmail.com)  
+- Twitter: [@ObayomiTaofeek](https://x.com/ObayomiTaofeek)  
+-  LinkedIn: [Obayomi Taofeek](https://www.linkedin.com/in/obayomi-taofeek-805a56267/)  
 
 ---
 

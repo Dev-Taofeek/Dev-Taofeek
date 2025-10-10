@@ -105,5 +105,5 @@ Let’s collaborate or build something great together:
 
 ---
 
-> “I don’t chase opportunities — I create results that attract them.”
+> “I don’t chase opportunities — I create results that attract them.”  
 > **Dev Taofeek**

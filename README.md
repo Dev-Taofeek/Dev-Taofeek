@@ -4,8 +4,8 @@
 
 ---
 
-I’m not just writing code, I design and develop *digital solutions*.  
-I specialize in crafting responsive, animated, and functional web interfaces using **React**, **Nextjs**, **JavaScript**, **Typescript** and **Tailwind CSS**.  
+I don't just writing code, I design and develop *digital solutions*.  
+I specialize in crafting responsive, scalable, animated, and functional web interfaces using **React**, **Nextjs**, **JavaScript**, **Typescript** and **Tailwind CSS**.  
 
 💡 *Turning ideas into beautiful interfaces is what I do best.*
 
@@ -67,5 +67,5 @@ Let’s collaborate or build something great together:
 
 ---
 
-> “I don’t chase opportunities — I create results that attract them.”  
-> — **Dev Taofeek**
+> “I don’t chase opportunities — I create results that attract them.”
+— **Dev Taofeek**

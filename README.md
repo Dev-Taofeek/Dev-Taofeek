@@ -40,7 +40,7 @@ I specialize in crafting responsive, scalable, animated, and functional web inte
 
 ## Live Projects  
 
-### [EduTest Pro](https://online-cbt-exam.vercel.app/)  
+### [EduTest Pro](https://github.com/Dev-Taofeek/Edu-Test-Pro)  
 EduTest Pro is a modern AI-powered exam preparation platform designed to help students practice smarter, track performance, and achieve higher success rates through real-time analytics and intelligent testing.
 
 **Highlights:**  

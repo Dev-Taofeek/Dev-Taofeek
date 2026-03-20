@@ -35,6 +35,24 @@ I specialize in crafting responsive, scalable, animated, and functional web inte
 | React • Nextjs • JavaScript (ES6+) • Typescript • HTML • CSS • Tailwind CSS | Framer Motion | Git • GitHub • VS Code • Api Integration | GSAP • GraphQL • Firebase  • AI Integration |
 
 ---
+
+---
+
+## Live Projects  
+
+### [EduTest Pro](https://online-cbt-exam.vercel.app/)  
+EduTest Pro is a modern AI-powered exam preparation platform designed to help students practice smarter, track performance, and achieve higher success rates through real-time analytics and intelligent testing.
+
+**Highlights:**  
+- AI-powered exam system with real-time feedback and performance tracking  
+- 10,000+ question bank with customizable exam settings  
+- Smart timer, anti-cheat features, and secure test environment  
+- Beautiful, animated UI with smooth user experience  
+- Fully responsive design optimized for all devices  
+
+**Tech Stack:** Next.js, Javascript, Tailwind CSS, Framer Motion, Supabase, SEO Integration  
+
+---
 ## Featured Projects  
 
 ### [SnapCard](https://github.com/Dev-Taofeek/Snap-Card)  
@@ -85,8 +103,32 @@ Tobless Store is a modern ecommerce platform where users can explore quality pro
 
 ---
 
-### Project I'm Currently Building  
- **Smart Track** — Smart Track is an AI-powered performance analytics and productivity tracking platform designed to help individuals and professionals visualize, measure, and improve their daily performance *(coming soon)*  
+### Projects I'm Currently Building  
+
+**Snapshot** — Snapshot is a high-quality image sharing platform that allows users to upload and showcase images without compression or quality loss. Built for creators who care about clarity, detail, and visual excellence. *(coming soon)*  
+
+**Planned Features:**  
+- Upload and share images in original quality  
+- Fast image delivery with optimized performance  
+- Clean gallery-style UI for showcasing visuals  
+- User profiles and image collections  
+- Smooth animations and modern responsive design  
+
+**Planned Tech Stack:** Next.js, TypeScript, Tailwind CSS, Cloud Storage, Image Optimization APIs  
+
+
+---
+
+**Reviewa** — Reviewa is a powerful product review and rating platform where users can share experiences, rate products, and help others make informed decisions through trusted feedback. *(coming soon)*  
+
+**Planned Features:**  
+- Product rating system (stars, reviews, feedback)  
+- User-generated reviews and engagement (likes, comments)  
+- Smart search and filtering for products  
+- User profiles and review history  
+- Scalable and responsive UI with smooth interactions  
+
+**Planned Tech Stack:** React / Next.js, TypeScript, Tailwind CSS, Firebase (or Supabase), API Integration   
 
 ---
 

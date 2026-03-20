@@ -1,10 +1,10 @@
 # Hey, I’m *Obayomi Taofeek* 
 
-### Frontend Developer | UI Enthusiast | Building Responsive Scalable websites
+### Frontend Engineer | UI Enthusiast | Building Responsive Scalable websites
 
 ---
 
-I don't just writing code, I design and develop *digital solutions*.  
+I don't just writing code, I design and develop *digital solutions* for businesses.  
 I specialize in crafting responsive, scalable, animated, and functional web interfaces using **React**, **Nextjs**, **JavaScript**, **Typescript** and **Tailwind CSS**.  
 
 💡 *Turning ideas into beautiful interfaces is what I do best.*
